@@ -1,27 +1,183 @@
-# 💫 About Me:
-I am currently working on UI/UX-focused projects and AI-driven solutions, with a strong interest in automation, cybersecurity, and analytical thinking. I actively participate in hackathons and competitions and seek collaboration on innovative, impact-oriented ideas. I am continuously developing skills in DSA, design principles, and intelligent systems, with a focus on creating efficient, secure, and user-centric digital experiences.
+<div align="center">
 
+# Hi 👋 I'm Manshi Rai
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rai_developer09) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manshi-rai09) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/raiisahab009) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@rai_s90) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCHPfR7j6Y5dnGhhPOeKIIfg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raiisahab009@gmail.com) 
+### Software Development Engineer (SDE) Aspirant | Full Stack Developer | Backend Developer | UI/UX & Graphic Designer
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=plastic&logo=svelte&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=plastic&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=plastic&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=plastic&logo=openapiinitiative&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=manshirai09&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=manshirai09&theme=default_repocard&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=manshirai09&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Developer;UI%2FUX+Designer;Graphic+Designer;MERN+Stack+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=manshirai09&theme=default_repocard&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=manshirai09&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=manshirai09&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 About Me
+
+I'm a passionate **Computer Science undergraduate** with a strong interest in **Software Engineering, Full Stack Development, Backend Engineering, UI/UX Design, and Graphic Design**.
+
+I enjoy transforming ideas into scalable, secure, and user-friendly digital products by combining clean backend architecture with intuitive user experiences.
+
+My expertise spans across **MERN Stack Development, REST API Design, Database Management, Responsive Web Development, UI/UX Design, and Creative Branding**. Alongside software development, I have experience designing professional logos, social media creatives, marketing materials, and modern user interfaces.
+
+I'm continuously improving my skills in **Data Structures & Algorithms, System Design, Cloud Technologies, and AI-powered applications** to prepare for Software Development Engineer (SDE) roles.
+
+Outside development, I actively participate in hackathons, internships, technical communities, and open-source learning while building production-ready portfolio projects.
+
+---
+
+# 🎯 Current Focus
+
+- 🚀 Backend Development Internship @ CodeAlpha
+- 💻 Preparing for Software Development Engineer (SDE) Interviews
+- 🧠 Solving LeetCode & Strengthening DSA
+- 🌾 Building Digital KrishiVaani (Patent-Based AgriTech Platform)
+- 🛒 Developing Production-Ready MERN Applications
+- 🎨 Designing Modern UI/UX Interfaces
+- ✨ Expanding My Graphic Design Portfolio
+- ☁️ Learning Cloud Deployment & System Design
+
+---
+
+# 💼 What I Do
+
+### 💻 Software Development
+
+- Full Stack MERN Development
+- Backend API Development
+- Authentication & Authorization
+- Database Design
+- RESTful APIs
+- Deployment & Hosting
+
+---
+
+### 🎨 UI/UX Design
+
+- User Interface Design
+- User Experience Research
+- Wireframing
+- Prototyping
+- Responsive Design
+- Design Systems
+
+---
+
+### 🖌️ Graphic Design
+
+- Brand Identity Design
+- Logo Design
+- Social Media Creatives
+- Marketing Posters
+- Event Banners
+- Presentation Design
+- Portfolio Design
+- Thumbnail Design
+- Canva Design
+- Figma Design
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
+C++ • JavaScript • TypeScript • Python • Java • SQL
+
+## Frontend
+
+React.js • Next.js • HTML5 • CSS3 • Tailwind CSS • Redux • React Router • Vite
+
+## Backend
+
+Node.js • Express.js • JWT • REST APIs • bcrypt.js
+
+## Database
+
+MongoDB • MySQL • Firebase
+
+## Cloud
+
+Vercel • Render • Google Cloud • AWS (Learning)
+
+## Design
+
+Figma • Canva • Adobe Creative Cloud
+
+## Tools
+
+Git • GitHub • Postman • VS Code • MongoDB Compass • Power BI
+
+---
+
+# 🌟 Featured Projects
+
+🌾 Digital KrishiVaani — Patent-based AI Smart Agriculture Platform
+
+🛒 MERN Ecommerce Platform
+
+📝 MERN Blog Platform
+
+🔗 URL Shortener API
+
+🎓 University Navigation System
+
+🌐 AI Portfolio Website
+
+📊 Analytics Dashboard
+
+---
+
+# 🏆 Experience
+
+💼 Backend Development Intern — CodeAlpha
+
+🎨 UI/UX Designer
+
+🖌️ Graphic Designer
+
+💻 Freelance Web Developer
+
+---
+
+# 📈 2026 Goals
+
+✅ Crack an SDE Internship
+
+✅ Solve 300+ LeetCode Problems
+
+✅ Master Backend Engineering
+
+✅ Learn System Design
+
+✅ Build 10+ Production-Level Projects
+
+✅ Contribute to Open Source
+
+✅ Publish Technical Articles
+
+---
+
+# 🌐 Connect With Me
+
+📧 **Email:** er.manshirai@gmail.com
+
+🌐 **Portfolio:** https://your-portfolio.vercel.app
+
+💻 **GitHub:** https://github.com/manshirai09
+
+💼 **LinkedIn:** https://www.linkedin.com/in/manshi-rai09/
+
+🧩 **LeetCode:** https://leetcode.com/u/rai_s90/
+
+🎨 **Behance:** https://www.behance.net/raisahab6
+
+📁 **Google Drive (Resume & Certificates):** https://drive.google.com/drive/folders/1Vumj54O_WjZJKTfa0kO5QJYCrsspnX_h?usp=sharing
+
+▶️ **YouTube:** https://youtube.com/@rai_developer09?si=vLeqJnnGwplsWltx
+
+📷 **Instagram:** https://www.instagram.com/rai_developer09?igsh=MTQ3dnIwcjFmeno1MA==
+
+📍 Location: Indore, Madhya Pradesh, India
+
+---
+
+> **"Building software that is scalable, designing experiences that are intuitive, and creating visuals that leave a lasting impression."**
