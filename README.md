@@ -10,7 +10,7 @@
 
 ---
 
-# 🚀 About Me
+<img src="https://img.icons8.com/fluency/32/about.png" width="22"/> About Me
 
 I'm a passionate **Computer Science undergraduate** with a strong interest in **Software Engineering, Full Stack Development, Backend Engineering, UI/UX Design, and Graphic Design**.
 
@@ -22,7 +22,7 @@ I'm continuously improving my skills in **Data Structures & Algorithms, System D
 
 Outside development, I actively participate in hackathons, internships, technical communities, and open-source learning while building production-ready portfolio projects.
 
-<img src="https://img.icons8.com/fluency/32/about.png" width="22"/> About Me
+
 ---
 
 # 🎯 Current Focus
