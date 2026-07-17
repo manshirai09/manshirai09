@@ -9,7 +9,7 @@
 </div>
 
 ---
-
+//About me 
 <img src="https://img.icons8.com/fluency/32/about.png" width="22"/> About Me
 
 I'm a passionate **Computer Science undergraduate** with a strong interest in **Software Engineering, Full Stack Development, Backend Engineering, UI/UX Design, and Graphic Design**.
@@ -25,7 +25,11 @@ Outside development, I actively participate in hackathons, internships, technica
 
 ---
 
-# 🎯 Current Focus
+//Current Focus
+<h2>
+  <img src="https://img.icons8.com/color/48/rocket--v1.png" width="28"/>
+  Current Focus
+</h2>
 
 - 🚀 Backend Development Internship @ CodeAlpha
 - 💻 Preparing for Software Development Engineer (SDE) Interviews
@@ -77,7 +81,9 @@ Outside development, I actively participate in hackathons, internships, technica
 
 ---
 
-# 🛠 Tech Stack
+// Tech Stack
+<img src="https://img.icons8.com/color/32/source-code.png" width="22"/> Tech Stack
+
 
 ## Languages
 
@@ -109,7 +115,9 @@ Git • GitHub • Postman • VS Code • MongoDB Compass • Power BI
 
 ---
 
-# 🌟 Featured Projects
+//Feature
+<img src="https://img.icons8.com/color/32/project.png" width="22"/> Featured Projects
+
 
 🌾 Digital KrishiVaani — Patent-based AI Smart Agriculture Platform
 
@@ -127,19 +135,29 @@ Git • GitHub • Postman • VS Code • MongoDB Compass • Power BI
 
 ---
 
-# 🏆 Experience
+//Experience
+<img src="https://img.icons8.com/color/32/briefcase.png" width="22"/> Experience
+
 
 💼 Backend Development Intern — CodeAlpha
 
-🎨 UI/UX Designer
+💼 Fullstack Development Intern — Cognevance *(Currently)*
 
-🖌️ Graphic Designer
+💼 Fullstack Development Intern — Thiranex
 
-💻 Freelance Web Developer
+
+🎨 UI/UX Designer Intern - Techrobo (Pegal Agency)
+
+🖌️ Graphic Designer *(full-time)* - Google Developer Group  
+
+💻 Freelance Web Developer , Digital Marketing And Graphic Designer - Linkedin and Upwork 
 
 ---
 
-# 📈 2026 Goals
+// 2026 Goals
+<img src="https://img.icons8.com/color/32/combo-chart.png" width="22"/> GitHub Statistics
+
+
 
 ✅ Crack an SDE Internship
 
@@ -157,7 +175,8 @@ Git • GitHub • Postman • VS Code • MongoDB Compass • Power BI
 
 ---
 
-# 🌐 Connect With Me
+// Connect With Me
+<img src="https://img.icons8.com/color/32/link.png" width="22"/> Connect With Me
 
 📧 **Email:** er.manshirai@gmail.com
 
