@@ -22,6 +22,7 @@ I'm continuously improving my skills in **Data Structures & Algorithms, System D
 
 Outside development, I actively participate in hackathons, internships, technical communities, and open-source learning while building production-ready portfolio projects.
 
+<img src="https://img.icons8.com/fluency/32/about.png" width="22"/> About Me
 ---
 
 # 🎯 Current Focus
