@@ -223,6 +223,29 @@ MongoDB Compass • Power BI • Canva • Trello • Notion
 
 ---
 
+<h3>
+  <img src="https://img.icons8.com/color/48/student-center.png" width="24"/>
+  Currently Learning
+</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,redis" />
+</p>
+
+System Design • Microservices • CI/CD • Design Patterns
+
+
+<h2>
+  <img src="https://img.icons8.com/color/48/prize.png" width="28"/>
+  Achievements
+</h2>
+
+<h2>
+  <img src="https://img.icons8.com/color/48/combo-chart.png" width="28"/>
+  GitHub Analytics
+</h2>
+
+
 // 2026 Goals
 <img src="https://img.icons8.com/color/32/combo-chart.png" width="22"/> GitHub Statistics
 
@@ -245,7 +268,12 @@ MongoDB Compass • Power BI • Canva • Trello • Notion
 ---
 
 // Connect With Me
-<img src="https://img.icons8.com/color/32/link.png" width="22"/> Connect With Me
+
+<h2>
+  <img src="https://img.icons8.com/color/48/share.png" width="28"/>
+  Connect With Me
+</h2>
+
 
 📧 **Email:** er.manshirai@gmail.com
 
