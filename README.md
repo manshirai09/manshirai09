@@ -9,7 +9,7 @@
 </div>
 
 ---
-//About me 
+ 
 <img src="https://img.icons8.com/fluency/32/about.png" width="22"/> About Me
 
 I'm a passionate **Computer Science undergraduate** with a strong interest in **Software Engineering, Full Stack Development, Backend Engineering, UI/UX Design, and Graphic Design**.
@@ -25,7 +25,7 @@ Outside development, I actively participate in hackathons, internships, technica
 
 ---
 
-//Current Focus
+
 <h2>
   <img src="https://img.icons8.com/color/48/rocket--v1.png" width="28"/>
   Current Focus
@@ -42,7 +42,10 @@ Outside development, I actively participate in hackathons, internships, technica
 
 ---
 
-# 💼 What I Do
+<h2>
+  <img src="https://img.icons8.com/color/48/briefcase.png" width="28"/>
+  What I Do
+</h2>
 
 ### 💻 Software Development
 
@@ -81,19 +84,44 @@ Outside development, I actively participate in hackathons, internships, technica
 
 ---
 
-// Tech Stack
-<img src="https://img.icons8.com/color/32/source-code.png" width="22"/> Tech Stack
+<h2>
+  <img src="https://img.icons8.com/color/48/source-code.png" width="28"/>
+  Tech Stack
+</h2>
 
+<h3>
+  <img src="https://img.icons8.com/color/48/code.png" width="24"/>
+  Programming Languages
+</h3>
 
-## Languages
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,java,python,php,c" />
+</p>
 
 C++ • JavaScript • TypeScript • Python • Java • SQL
 
-## Frontend
+<h3>
+  <img src="https://img.icons8.com/color/48/web-design.png" width="24"/>
+  Frontend Development
+</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind,vite,bootstrap,sass,jquery" />
+</p>
+
 
 React.js • Next.js • HTML5 • CSS3 • Tailwind CSS • Redux • React Router • Vite
 
-## Backend
+<h3>
+  <img src="https://img.icons8.com/color/48/server.png" width="24"/>
+  Backend Development
+</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
+</p>
+
+REST APIs • JWT Authentication • bcrypt • MVC Architecture
 
 Node.js • Express.js • JWT • REST APIs • bcrypt.js
 
