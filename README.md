@@ -130,17 +130,57 @@ REST APIs • JWT Authentication • bcrypt • MVC Architecture
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase" />
 </p>
+
+
 ## Cloud
 
-Vercel • Render • Google Cloud • AWS (Learning)
+<h3>
+  <img src="https://img.icons8.com/color/48/cloud.png" width="24"/>
+  Cloud & Deployment
+</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,vercel,netlify,render" />
+</p>
+
+## AI & Machine Learning
+
+<h3>
+  <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="24"/>
+  AI & Machine Learning
+</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+Google Gemini API • OpenAI API • Hugging Face
 
 ## Design
 
-Figma • Canva • Adobe Creative Cloud
+<h3>
+  <img src="https://img.icons8.com/color/48/design.png" width="24"/>
+  UI/UX & Graphic Design
+</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,xd" />
+</p>
+
+Canva • Adobe Photoshop • Adobe Illustrator • Figma • UI Design • UX Design • Brand Identity
 
 ## Tools
 
-Git • GitHub • Postman • VS Code • MongoDB Compass • Power BI
+<h3>
+  <img src="https://img.icons8.com/color/48/maintenance.png" width="24"/>
+  Tools & Technologies
+</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,bash,linux" />
+</p>
+
+MongoDB Compass • Power BI • Canva • Trello • Notion
 
 ---
 
