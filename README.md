@@ -184,7 +184,7 @@ MongoDB Compass • Power BI • Canva • Trello • Notion
 
 ---
 
-//Feature
+
 <img src="https://img.icons8.com/color/32/project.png" width="22"/> Featured Projects
 
 
@@ -204,7 +204,7 @@ MongoDB Compass • Power BI • Canva • Trello • Notion
 
 ---
 
-//Experience
+
 <img src="https://img.icons8.com/color/32/briefcase.png" width="22"/> Experience
 
 
@@ -246,7 +246,7 @@ System Design • Microservices • CI/CD • Design Patterns
 </h2>
 
 
-// 2026 Goals
+
 <img src="https://img.icons8.com/color/32/combo-chart.png" width="22"/> GitHub Statistics
 
 
@@ -267,7 +267,7 @@ System Design • Microservices • CI/CD • Design Patterns
 
 ---
 
-// Connect With Me
+
 
 <h2>
   <img src="https://img.icons8.com/color/48/share.png" width="28"/>
