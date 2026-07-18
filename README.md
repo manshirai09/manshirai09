@@ -98,8 +98,6 @@ Outside development, I actively participate in hackathons, internships, technica
 <img src="https://skillicons.dev/icons?i=cpp,js,ts,java,python,php,c" />
 </p>
 
-C++ • JavaScript • TypeScript • Python • Java • SQL
-
 <h3>
   <img src="https://img.icons8.com/color/48/web-design.png" width="24"/>
   Frontend Development
@@ -109,8 +107,6 @@ C++ • JavaScript • TypeScript • Python • Java • SQL
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind,vite,bootstrap,sass,jquery" />
 </p>
 
-
-React.js • Next.js • HTML5 • CSS3 • Tailwind CSS • Redux • React Router • Vite
 
 <h3>
   <img src="https://img.icons8.com/color/48/server.png" width="24"/>
@@ -123,12 +119,17 @@ React.js • Next.js • HTML5 • CSS3 • Tailwind CSS • Redux • React Rou
 
 REST APIs • JWT Authentication • bcrypt • MVC Architecture
 
-Node.js • Express.js • JWT • REST APIs • bcrypt.js
 
 ## Database
 
-MongoDB • MySQL • Firebase
+<h3>
+  <img src="https://img.icons8.com/color/48/database.png" width="24"/>
+  Database
+</h3>
 
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase" />
+</p>
 ## Cloud
 
 Vercel • Render • Google Cloud • AWS (Learning)
